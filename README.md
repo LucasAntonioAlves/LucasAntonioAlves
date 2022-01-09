@@ -1,4 +1,4 @@
-## Olá me chamo Lucas Antônio 
+## Olá me chamo Lucas Antônio, e estou me desenvolvendo na programação back-end ;)
 
 - 🔭 Atualmente estou trabalhando com back-end
 - 🌱 Estudando Java, React, Javascript
