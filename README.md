@@ -1,8 +1,9 @@
-## Olá me chamo Lucas Antônio, e estou me desenvolvendo na programação back-end ;)
+## Olá me chamo Lucas Antônio, e estou me desenvolvendo em programação back-end ;)
 
 - 🔭 Atualmente estou em desenvolvimento com back-end
 - 🌱 Estudando Java, React, Javascript
-- 👨‍🎓 Formado em Técnico em Informatica pela ETB - Escola Técnica de Brasilia
+- 👨‍🎓 Formado em Técnico em Informatica pela Escola Técnica de Brasilia - ETB
+- 👨‍🎓 Cursando Engenharia de Software no Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa - IDP
 
 <div align="center"> 
     <a href="https://github.com/LucasAntonioAlves">
