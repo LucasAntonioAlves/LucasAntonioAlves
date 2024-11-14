@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou em desenvolvimento com back-end
 - 🌱 Estudando Java, React, Javascript
 - 👨‍🎓 Formado em Técnico em Informatica pela Escola Técnica de Brasilia - ETB
-- 👨‍🎓 Cursando Engenharia de Software no Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa - IDP
+- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas na Universidade Catolica de Brasilia - UCB
 
 <div align="center"> 
     <a href="https://github.com/LucasAntonioAlves">
